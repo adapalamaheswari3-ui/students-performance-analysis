@@ -70,7 +70,3 @@ student-performance-analysis/
 3. Open the notebook using Jupyter Notebook or VS Code.
 4. Execute the notebook cells in order.
 
-## Author
-**Name:** Potti Mallikarjuna Rao
-
-**Student Number:** Add your student number here.
